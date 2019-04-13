@@ -1,0 +1,15 @@
+{
+  "BOT": {
+    "nome": "Nome do robô",
+    "treino": "Arquivo para treino",
+    "path_driver": "driver",
+    "usuario": "Nome do usuário com quem quer conversar"
+  },
+  "KEY":{
+    "youtube": "Chave para usar a API do youtube"
+  },
+  "MICROSOFT": {
+    "key": "Chave para usar a API da Microsoft",
+    "location": "location da API da Microsoft, consulte a documentação deles"
+  }
+}
