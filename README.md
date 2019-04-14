@@ -1,6 +1,6 @@
 # Chatbot para WhatsApp
 
-O bot tem como objetivo auxiliar em algumas atividades básicas do cotidiano, como por exemplo:
+O bot tem como objetivo auxiliar em algumas atividades básicas do cotidiano, ser um assistente pessoal, como por exemplo:
 
 * Mostrar o clima 
 * Fazer pesquisas no Wikipédia 
@@ -71,3 +71,5 @@ Exemplo:
   }
 }
 ```
+
+#### Artigo no Medium explicando como foi feito: https://medium.com/@jjean.jacques10/assistente-pessoal-para-whatsapp-8c86f6373058
